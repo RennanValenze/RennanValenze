@@ -15,7 +15,8 @@ Tenho interesse em aprender diferentes áreas da segurança da informação ante
 🐍 Python
 🔐 Fundamentos de Cibersegurança
 🐙 Git e GitHub
-##🚀 Projetos
+🚀 Projetos
+##🏆 Cursos e certificações
 
 Utilizo este GitHub para compartilhar meus estudos, projetos, laboratórios e minha evolução na área de Cibersegurança.
 
